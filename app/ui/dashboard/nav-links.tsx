@@ -6,8 +6,8 @@ import {
   DocumentDuplicateIcon,
 } from '@heroicons/react/24/outline';
 
-import Link from 'next/link'; // importing navlinks
-import { usePathname } from 'next/navigation';       // hook for getting user's dir
+import Link from 'next/link'; 
+import { usePathname } from 'next/navigation';       // hook for user's dir
 import clsx from 'clsx';
 
 
